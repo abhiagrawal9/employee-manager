@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "employee-manger-1d18e": {
+      "hosting": {
+        "employee-manager": [
+          "employee-manger-1d18e"
+        ]
+      }
+    }
+  }
+}
